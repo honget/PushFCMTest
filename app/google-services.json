@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964225675132",
+    "firebase_url": "https://hong-pushtest.firebaseio.com",
+    "project_id": "hong-pushtest",
+    "storage_bucket": "hong-pushtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964225675132:android:0dc31c16cc055e18",
+        "android_client_info": {
+          "package_name": "com.example.pushfcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964225675132-05k0294jfccm6l3sbqd1ccsrvgv9jkjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushfcmtest",
+            "certificate_hash": "57278659245da69104dcbe7e5e3b9382b3689d32"
+          }
+        },
+        {
+          "client_id": "964225675132-e970tkot40bv7sufinb3f2h436c6jdu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_YQI_2BG7ysQUSgzZqosqO7Bf02AV7zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964225675132-e970tkot40bv7sufinb3f2h436c6jdu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
